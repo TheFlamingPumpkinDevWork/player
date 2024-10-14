@@ -2,7 +2,7 @@ AddonId: 'Player'
 Packages:
   - Version: 1.0
     RequiredApiVersion: 2.6.0
-    ReleaseDate: 2024-10-15
-    PackageUrl: https://github.com/TheFlamingPumpkinDevWork/player/releases/download/v1.0/Player_1_0.pthm
+    ReleaseDate: 2024-10-14
+    PackageUrl: https://github.com/TheFlamingPumpkinDevWork/player/releases/download/v1.0/Player_c024d463-26b3-4edb-8b01-8960d89b2fa9_1_0.pthm
     Changelog:
     - First public release build
