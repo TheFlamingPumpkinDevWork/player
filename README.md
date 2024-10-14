@@ -1,7 +1,7 @@
 # player
 Playnite v10 Fullscreen Theme
 16/9
-![screenshot02]()
+![screenshot02](https://github.com/TheFlamingPumpkinDevWork/player/blob/255f9ce7220e0a9944462aa6bd91855dfbdfcf75/previews/screenshot02.png)
 ![screenshot04]()
 ![screenshot06]()
 21/9
