@@ -1,6 +1,9 @@
 # player
 Playnite v10 Fullscreen Theme
 
+## Support
+https://discord.com/channels/365863063296933888/808419347105447957
+
 ## Preview with 16:9 display
 Selected Game view with top and bottom bar
 
@@ -59,6 +62,14 @@ Secondly, make sure you've installed the following add-ons for an optimal theme 
 + **Theme Options** (Customizes the theme, thanks to Artem Shpynov)
 + **ExtraMetadataLoader** (Displays game trailers and logos)
 + **ExtraMetadataLoader Fullscreen Helper** (Ensures ExtraMetadata works in fullscreen mode)
++ **BackToGame** (Adds a button to refocus on the game when it loses focus)
+
+## Show Platforms Logo
+1. Open **Playnite** in **Desktop Mode**
+2. Open **Playnite** main menu
+3. Go to **_Library > Library Manager > Platforms_** and select your platform
+4. upload your icon and **Save**
+5. Now your platform logo will be displayed in **Fullscreen Mode**
 
 ## Customize
 
