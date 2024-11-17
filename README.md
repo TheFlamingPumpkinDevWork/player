@@ -2,7 +2,7 @@
 Playnite v10 Fullscreen Theme
 
 ## Support
-https://discord.com/channels/365863063296933888/808419347105447957
+[Playnite Discord Theme Support Channel](https://discord.com/channels/365863063296933888/808419347105447957)
 
 ## Preview with 16:9 display
 Selected Game view with top and bottom bar
@@ -60,9 +60,9 @@ First, this theme is currently optimized for Microsoft Windows 11, so if it is u
 
 Secondly, make sure you've installed the following add-ons for an optimal theme experience. These add-ons enhance the look and feel of your Playnite setup, and some are essential for full functionality:
 + **Theme Options** (Customizes the theme, thanks to Artem Shpynov)
-+ **ExtraMetadataLoader** (Displays game trailers and logos)
-+ **ExtraMetadataLoader Fullscreen Helper** (Ensures ExtraMetadata works in fullscreen mode)
-+ **BackToGame** (Adds a button to refocus on the game when it loses focus)
++ **Extra Metadata Loader** (Displays game trailers and logos)
++ **Extra Metadata Fullscreen Mode Helper** (Ensures ExtraMetadata works in fullscreen mode)
++ **Back To Game** (Adds a button to refocus on the game when it loses focus)
 
 ## Show Platforms Logo
 1. Open **Playnite** in **Desktop Mode**
@@ -70,6 +70,13 @@ Secondly, make sure you've installed the following add-ons for an optimal theme 
 3. Go to **_Library > Library Manager > Platforms_** and select your platform
 4. upload your icon and **Save**
 5. Now your platform logo will be displayed in **Fullscreen Mode**
+
+## Show Game Version in Game Details Views
+If no game version is specified, the Game Details Views will automatically indicate **Version : Standard**
+1. Open **Playnite** in **Desktop Mode**
+2. Scroll to your game and type **F3** to edit game details
+3. Go to **Advanced** tab and set the version name in the **Version** field (like *Game of the Year Edition*, *Definitive Edition*...)
+4. Delete de version name in the game title if it exists
 
 ## Customize
 To change aspects like the theme color or display items, you'll need the **Theme Options** add-on. This allows for easy customization without manually editing theme files. Follow these steps to get started:
