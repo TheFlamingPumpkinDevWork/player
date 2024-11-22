@@ -84,5 +84,5 @@ To change aspects like the theme color or display items, you'll need the **Theme
 2. Once installed, you can customize the theme through the **Theme Options Fullscreen Mode** interface in the theme settings **_Theme Menu > Settings > Theme Options_**
 
 ## Recommended settings
-
+To come...
 
