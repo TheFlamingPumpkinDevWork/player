@@ -76,7 +76,7 @@ If no game version is specified, the Game Details Views will automatically indic
 1. Open **Playnite** in **Desktop Mode**
 2. Scroll to your game and type **F3** to edit game details
 3. Go to **Advanced** tab and set the version name in the **Version** field (like *Game of the Year Edition*, *Definitive Edition*...)
-4. Delete de version name in the game title if it exists
+4. Delete version name in the game title if it exists
 
 ## Customize
 To change aspects like the theme color or display items, you'll need the **Theme Options** add-on. This allows for easy customization without manually editing theme files. Follow these steps to get started:
