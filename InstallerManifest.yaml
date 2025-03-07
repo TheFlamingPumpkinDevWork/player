@@ -6,3 +6,13 @@ Packages:
     PackageUrl: https://github.com/TheFlamingPumpkinDevWork/player/releases/download/v1.0/Player_c024d463-26b3-4edb-8b01-8960d89b2fa9_1_0.pthm
     Changelog:
     - First public release build
+
+  - Version: 1.1
+    RequiredApiVersion: 2.7.0
+    ReleaseDate: 2025-03-07
+    PackageUrl: https://github.com/TheFlamingPumpkinDevWork/player/releases/download/v1.1/Player_c024d463-26b3-4edb-8b01-8960d89b2fa9_1_1.pthm
+    Changelog:
+    - Fixed an issue where not displaying rating stars on games installed in main view and game detail view ;
+    - Fixed button background color and margin on item quick presets footer (game edit options) ;
+    - Replaced the warning text for the presence of additional filters with an icon on the main view ;
+    - Added new square ESRB icons.
